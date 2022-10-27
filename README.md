@@ -42,4 +42,14 @@ An additional stage of data cleansing is completed, correcting data with same id
  
 The following diagram illustrates the flow chart of the project:
 
+![Flow chart drawio 2](https://user-images.githubusercontent.com/105171514/198181589-26771455-2b77-4bb5-8a15-2394d7a39b9a.png)
 
+## --> Information to highlight
+* [MySQL and MariaDB](https://docs.sqlalchemy.org/en/14/dialects/mysql.html#module-sqlalchemy.dialects.mysql.base)
+* [MySQL SUBSTRING_INDEX funtion](https://www.mysqltutorial.org/mysql-string-functions/mysql-substring_index-function/)
+
+## Contact
+
+Oscar Mario Mariño Arias: oscarmarinoa@gmail.com 
+
+[LinkedIn](https://www.linkedin.com/in/oscar-mariño-arias-774098112/)
