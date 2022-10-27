@@ -28,7 +28,7 @@ In this first stage a function was created to read different files extensions an
 
 For the second stage a data exploration process was caried out, identifying the structure of the data, its properties and missing values.
 
-Another function was developed to clean and normalize the data from the Precio_semana files. The function takes the returned Dataframe from the previous step and execute a transformation process in which null values are transformed to 0 to preserve the integrity of the data, the repeted values are deleted and values with typos are corrected and transformed to the proper structure.
+Another function was developed to clean and normalize the data from the Precio_semana files. The function takes the returned Dataframe from the previous step and execute a transformation process in which null values are transformed to 0 to preserve the integrity of the data, the repeated values are deleted and values with typos are corrected and transformed to the proper structure.
 
 ## 3. Local database creation in MySQL:
 
