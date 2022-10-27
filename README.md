@@ -39,5 +39,7 @@ A local database is created using MySQL server to storage the corrected datafram
 ## 5. Data transformation with MySQL and relational entity structure development:
 
 An additional stage of data cleansing is completed, correcting data with same ids and incorrect designations. Afterwards, relations between table are defined and primary and foreign keys are set.
+ 
+The following diagram illustrates the flow chart of the project:
 
 
