@@ -44,4 +44,9 @@ The following diagram illustrates the flow chart of the project:
 
 ![Flow chart drawio 2](https://user-images.githubusercontent.com/105171514/198181589-26771455-2b77-4bb5-8a15-2394d7a39b9a.png)
 
+## + Information to highlight.
+* [FastAPI Framework](https://fastapi.tiangolo.com/)
+* [SQL Alchemy ORM Tutorial](https://docs.sqlalchemy.org/en/14/orm/tutorial.html)
+* [SQL Queries as Python code with SQLAlchemy](https://hackersandslackers.com/database-queries-sqlalchemy-orm/)
+
 
