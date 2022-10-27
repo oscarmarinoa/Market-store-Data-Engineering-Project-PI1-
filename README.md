@@ -48,7 +48,7 @@ The following diagram illustrates the flow chart of the project:
 You will find the following files:
 * Code.ipynb and Code2.ipynb: Files with the functions for the data load, transformation and transfer to MySQL for producto, sucursal and precio_semana tables.
 * Flow chart of the project.
-* Dataset used here.
+* Dataset: Folder with the datasets used here.
 * Market-store-Data-Engineering-Project-PI1-: Folder with the queries run in MySQL.
 
 ## --> Information to highlight
