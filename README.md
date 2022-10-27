@@ -53,4 +53,4 @@ The following diagram illustrates the flow chart of the project:
 
 Oscar Mario Mariño Arias: oscarmarinoa@gmail.com 
 
-LinkedIn: https://www.linkedin.com/in/oscar-mariño-arias-774098112/
+[LinkedIn](https://www.linkedin.com/in/oscar-mariño-arias-774098112/)
