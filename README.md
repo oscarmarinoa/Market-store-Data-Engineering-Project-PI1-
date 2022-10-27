@@ -42,4 +42,4 @@ An additional stage of data cleansing is completed, correcting data with same id
  
 The following diagram illustrates the flow chart of the project:
 
-
+![Flow chart drawio 2](https://user-images.githubusercontent.com/105171514/198180568-53a7490f-2dc0-4c98-8154-9df322cef42a.png)
