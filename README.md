@@ -44,6 +44,13 @@ The following diagram illustrates the flow chart of the project:
 
 ![Flow chart drawio 2](https://user-images.githubusercontent.com/105171514/198181589-26771455-2b77-4bb5-8a15-2394d7a39b9a.png)
 
+## --> About the repository
+You will find the following files:
+* Code.ipynb and Code2.ipynb: Files with the functions for the data load, transformation and transfer to MySQL for producto, sucursal and precio_semana tables.
+* Flow chart of the project.
+* Dataset used here.
+* Market-store-Data-Engineering-Project-PI1-: Folder with the queries run in MySQL.
+
 ## --> Information to highlight
 * [MySQL and MariaDB](https://docs.sqlalchemy.org/en/14/dialects/mysql.html#module-sqlalchemy.dialects.mysql.base)
 * [MySQL SUBSTRING_INDEX funtion](https://www.mysqltutorial.org/mysql-string-functions/mysql-substring_index-function/)
