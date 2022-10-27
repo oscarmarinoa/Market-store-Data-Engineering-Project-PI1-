@@ -18,8 +18,14 @@ The dataset for this project is formed by three tables.
 * Producto: The table holds detailed information from the items sold.
 * Precio_semana: The Precio_semana table contain several files for which a incremental load process has been constructed. The files contain information related to sales made during a time period in different market branches and the products sold.
 
-## 1. Data extraction and load of datasets.
+## 1. Data extraction and load of datasets:
 
 In this first stage a function was created to read different files extensions and return an appropiate Dataframe. The user just have to copy the relative path of the file in the variable and execute the script.
 
-**Note:** It is importat to note that the function can read files with similar characteristics to the files used for the current project
+**Note:** It is importat to note that the function can read files with similar characteristics to the files used for the current project.
+
+## Data transformation with python:
+
+For the second stage a data exploration proccess was caried out, identifying the structure of the data and its properties.
+
+Another function was created to clean and standarize the data from the Precio_semana table. The function takes the returned Dataframe from the previous step and execute a transformation proccess in which null values are transformed to 0 to preserve the integrity of the data, the repeted values are deleted and values are transformed to their appropiate type.
